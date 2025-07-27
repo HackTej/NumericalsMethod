@@ -1,2 +1,3 @@
-# NumericalsMethod
-This contains projects to solve some n variables equations.
+# Numericals Method
+Here I made the projects for Numerical Methods type question in C++ or in C. As we know there is various problems exist in mathematics which we cannot find the solutions. One of the classical problem like pow(e,x)=pow(x,2), for this qustion we can draw graphs and can find the solutions but not very exact. So, here comes some Numerical Methods to achieve the solution with very less error percentage.
+So, here I will share the projects for numerical method. Which will help to tackle the various problems and you will get instant solutions for the question. Absolutely, the implementation of projects will be based on some mathematical theorem.
